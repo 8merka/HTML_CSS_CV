@@ -154,6 +154,14 @@ top:0;
 right:0;
 }
 
+.centered {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+
 .container .section_right table{
 width:100%;
 }
